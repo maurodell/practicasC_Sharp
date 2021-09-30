@@ -8,7 +8,14 @@ namespace ejemplo_sobrescritura
 {
     abstract class Impuesto//creo la clase abstract
     {
-        public decimal Importe { get; set; }//atributo Importe
+        public static decimal Imp;
+        public decimal Importe {
+            get => Imp;
+            set
+            {
+                Imp = value;
+            }
+                 }//atributo Importe
         virtual public decimal ImpuestoEnPesos() { return this.Importe * 0.10m; }//metodo virtual que retorna el importe *0.10
         abstract public decimal TotalAPagar();//metodo abstracto vacío
     }

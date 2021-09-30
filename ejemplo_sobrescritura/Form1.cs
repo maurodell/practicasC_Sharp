@@ -38,5 +38,17 @@ namespace ejemplo_sobrescritura
                 return lado * lado;
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Impuesto imp = new ImpuestoComun();
+            Impuesto impEspecial = new ImpuestoEspecial();
+
+            imp.Importe = decimal.Parse(Interaction.InputBox("Ingrese el importe: "));
+            MessageBox.Show("TOTAL A PAGAR\n"+
+                            "Con impuesto común del 10%  $"+imp.TotalAPagar().ToString());
+            MessageBox.Show("TOTAL A PAGAR\n"+
+                            "Con impuesto especial del 20%  $"+impEspecial.TotalAPagar().ToString());
+        }
     }
 }
