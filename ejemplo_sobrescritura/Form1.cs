@@ -50,5 +50,19 @@ namespace ejemplo_sobrescritura
             MessageBox.Show("TOTAL A PAGAR\n"+
                             "Con impuesto especial del 20%  $"+impEspecial.TotalAPagar().ToString());
         }
+
+        public void CalcularDescuento(Producto precio)
+        {
+            precio.Precio = decimal.Parse(Interaction.InputBox("Igrese le precio del producto: "));
+            MessageBox.Show("El precio sin descuento es:  $"+precio.Precio+"\n"+
+                            "El precio con descuento es:  $"+precio.PrecioConDescuento().ToString());
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+           CalcularDescuento(new ProductoNacional());
+
+            CalcularDescuento(new ProductoImportado());
+        }
     }
 }

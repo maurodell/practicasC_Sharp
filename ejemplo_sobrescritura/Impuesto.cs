@@ -8,7 +8,7 @@ namespace ejemplo_sobrescritura
 {
     abstract class Impuesto//creo la clase abstract
     {
-        public static decimal Imp;
+        public static decimal Imp;//se genera un atributo static para poder implementar los metodos y no perder el value
         public decimal Importe {
             get => Imp;
             set

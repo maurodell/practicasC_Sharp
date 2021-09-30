@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace ejemplo_sobrescritura
 {
-    class Producto
+    abstract public class Producto
     {
+        public decimal Precio { get; set; }
+        abstract public decimal PrecioConDescuento();
+    }
+    public class ProductoNacional : Producto
+    {
+        public override decimal PrecioConDescuento()
+        {
+            return this.Precio * 0.90m;
+        }
+    }
+    public class ProductoImportado : Producto
+    {
+        public override decimal PrecioConDescuento()
+        {
+            return this.Precio * 0.80m;
+        }
     }
 }
