@@ -1,0 +1,10 @@
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\bin\Debug\ejemplo_sobrescritura.exe.config
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\bin\Debug\ejemplo_sobrescritura.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\bin\Debug\ejemplo_sobrescritura.pdb
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\obj\Debug\ejemplo_sobrescritura.csproj.AssemblyReference.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\obj\Debug\ejemplo_sobrescritura.Form1.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\obj\Debug\ejemplo_sobrescritura.Properties.Resources.resources
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\obj\Debug\ejemplo_sobrescritura.csproj.GenerateResource.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\obj\Debug\ejemplo_sobrescritura.csproj.CoreCompileInputs.cache
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\obj\Debug\ejemplo_sobrescritura.exe
+C:\Users\mdo\Desktop\Analista Programador\2 año\1 cuatri\POO\Unidad 2\Itinerario 5\ej_sobrescritura_polimorfismo\ejemplo_sobrescritura\ejemplo_sobrescritura\obj\Debug\ejemplo_sobrescritura.pdb
